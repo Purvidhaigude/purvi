@@ -1,6 +1,6 @@
 
 ### Screenshot:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ac8fe7c0-4267-4607-ac01-6f33dd3d0914)
 
 
 # Job Referral Platform
