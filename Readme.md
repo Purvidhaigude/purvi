@@ -1,6 +1,7 @@
-### Deployed smartcontract address: 0x2f98c06045717acbb82cad6ac477ab4cd02429e851694eeb890d0d16837c86b5
 
-### Screenshot: ![alt text](image.png)
+### Screenshot:
+![Uploading image.png…]()
+
 
 # Job Referral Platform
 
